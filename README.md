@@ -1,1 +1,3 @@
-# codense.github.io
+# Codense Website
+
+Website for the CoDense. (Not completed)
